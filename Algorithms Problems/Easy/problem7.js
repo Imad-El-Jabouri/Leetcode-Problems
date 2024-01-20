@@ -2,6 +2,8 @@
 
 
 // Solution 1
+// Time complexity : O(n)
+
 
 /**
  * @param {string[]} operations

@@ -2,6 +2,8 @@
 
 
 // Solution
+// Time complexity : O(n)
+
 
 /**
  * @param {number[]} nums

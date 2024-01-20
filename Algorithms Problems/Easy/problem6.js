@@ -2,7 +2,7 @@
 
 
 // Solution
-
+// Time complexity : O(1)
 
 /**
  * @param {number} celsius

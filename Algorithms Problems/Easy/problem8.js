@@ -2,6 +2,7 @@
 
 
 // Solution
+// Time complexity : O(n^2)
 
 
 /**
@@ -26,3 +27,4 @@ var numJewelsInStones = function(jewels, stones) {
 
 
 console.log(numJewelsInStones("aA", "aAAbbbb"))
+

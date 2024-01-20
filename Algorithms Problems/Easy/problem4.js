@@ -2,6 +2,7 @@
 
 
 // Solution
+// Time complexity : O(n^2)
 
 /**
  * @param {number[]} nums
