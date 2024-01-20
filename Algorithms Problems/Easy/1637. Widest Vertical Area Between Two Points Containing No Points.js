@@ -1,4 +1,9 @@
+// Problem On LeetCode : 1637. Widest Vertical Area Between Two Points Containing No Points
 
+
+
+// Solution
+// Time complexity : O(n^2)
 
 
 /**
@@ -15,7 +20,7 @@ var maxWidthOfVerticalArea = function(points) {
     }
 
     //sort Array_Of_X_Axis descending
-    
+
                 // for (let i=0; i<Array_Of_X_Axis.length; i++) {
                 //     for (let ii=Array_Of_X_Axis.length-1; ii>=i; ii--) {
                 //         let x;
